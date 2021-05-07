@@ -1,0 +1,29 @@
+{
+  "name": "mongodb-crud-express",
+  "version": "1.0.0",
+  "description": "mongo db with nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamhotsimamora/mongodb-crud-express.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "lamhotsimamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamhotsimamora/mongodb-crud-express/issues"
+  },
+  "homepage": "https://github.com/lamhotsimamora/mongodb-crud-express#readme"
+}
